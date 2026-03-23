@@ -1,24 +1,23 @@
-Copyright (C) 2002-2021 Igor Sysoev
-Copyright (C) 2011-2026 Nginx, Inc.
-All rights reserved.
+Copyright (c) 2025-2026 BlackRoad OS, Inc. All Rights Reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
+PROPRIETARY SOFTWARE LICENSE
 
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGE.
+This software and associated documentation files (the "Software") are the
+exclusive property of BlackRoad OS, Inc. ("BlackRoad"). The Software is
+licensed, not sold.
+
+Permission is NOT granted to any person or entity to copy, modify, merge,
+publish, distribute, sublicense, sell, or create derivative works of the
+Software without the express written consent of BlackRoad OS, Inc.
+
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
+
+For licensing inquiries: legal@blackroad.io
+
+---
+
+NOTICE: This software is derived from nginx/nginx.
+Original license terms may have applied to the upstream source.
+This derivative work is independently licensed under the terms above.
